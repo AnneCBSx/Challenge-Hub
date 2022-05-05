@@ -8,6 +8,15 @@ h1 {
 
 }
 
-.numero-arredondado{background-color: blue;
+.numero-arredondado{
+    background-color: blue;
+
+}
+
+.botao-enviar{ 
+    background-color:white;
+    width: 1000px;
+    height: 10px;
+    border-radius:5px;
 
 }
